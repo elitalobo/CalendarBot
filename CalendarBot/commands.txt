@@ -1,0 +1,5 @@
+create event "event1" on 2016-11-26 from 09:30:00 to 11:00:00 with bansal.rahul14@gmail.com,loboelita@gmail.com
+update event "event1" on 2016-11-26 from 12:30:00 to 14:30:00
+delete event "event1" on 2016-11-26 from 12:30:00 to 14:30:00
+show upcoming events
+suggest free slots on 2016-10-24 for deysaikatkumar@gmail.com,loboelita@gmail.com
