@@ -2,7 +2,7 @@ apiclient==1.0.3
 backports.shutil-get-terminal-size==1.0.0
 decorator==4.0.10
 enum34==1.1.6
-Flask==0.10.1
+Flask==1.0
 Flask-Login==0.3.2
 Flask-SQLAlchemy==2.1
 google-api-python-client==1.5.4
